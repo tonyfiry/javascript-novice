@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: #0fe;
+}
+p{
+    color: rgb(255, 60, 0);
+    font-size: 32px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+nav{
+    background-color: rgb(166, 255, 0);
+    text-align: center;
+    font-size: 0;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 6px 30px;
+    transition: 0.5s;
+    border-radius: 50px;
+    display:inline-block;
+    font-size: 15px;
+}
+nav a:hover{
+    background-color: beige;
+    
+}
