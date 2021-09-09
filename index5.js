@@ -29,10 +29,13 @@
 
 function math(num1,num2){
     console.log(num1+num2);
+    console.log(num1-num2);
+    console.log(num1*num2);
+    console.log(num1/num2);
     return num1,num2;
 }
 math(200,550);
-math(200,50);
+
 
 
 
